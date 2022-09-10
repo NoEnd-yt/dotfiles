@@ -1,0 +1,136 @@
+# Ce fichier viminfo a été généré par Vim 9.0.
+# Vous pouvez l'éditer, mais soyez prudent.
+
+# Viminfo version
+|1,4
+
+# 'encoding' dans lequel ce fichier a été écrit
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# Historique ligne de commande (chronologie décroissante) :
+:wq
+|2,0,1661269732,,"wq"
+:q
+|2,0,1655906935,,"q"
+:wqa
+|2,0,1655906863,,"wqa"
+
+# Historique chaîne de recherche (chronologie décroissante) :
+
+# Historique expression (chronologie décroissante) :
+
+# Historique ligne de saisie (chronologie décroissante) :
+
+# Historique Ligne de débogage (chronologie décroissante) :
+
+# Registres :
+
+# Marques dans le fichier :
+'0  11  9  ~/.config/kitty/kitty.conf
+|4,48,11,9,1661269732,"~/.config/kitty/kitty.conf"
+'1  11  9  ~/.config/kitty/kitty.conf
+|4,49,11,9,1661266268,"~/.config/kitty/kitty.conf"
+'2  11  8  ~/.config/kitty/kitty.conf
+|4,50,11,8,1656570467,"~/.config/kitty/kitty.conf"
+'3  11  8  ~/.config/kitty/kitty.conf
+|4,51,11,8,1656570467,"~/.config/kitty/kitty.conf"
+'4  3  39  ~/.config/kitty/kitty.conf
+|4,52,3,39,1655906863,"~/.config/kitty/kitty.conf"
+'5  3  39  ~/.config/kitty/kitty.conf
+|4,53,3,39,1655906863,"~/.config/kitty/kitty.conf"
+'6  3  39  ~/.config/kitty/kitty.conf
+|4,54,3,39,1655906863,"~/.config/kitty/kitty.conf"
+'7  3  39  ~/.config/kitty/kitty.conf
+|4,55,3,39,1655906863,"~/.config/kitty/kitty.conf"
+'8  3  39  ~/.config/kitty/kitty.conf
+|4,56,3,39,1655906863,"~/.config/kitty/kitty.conf"
+'9  3  39  ~/.config/kitty/kitty.conf
+|4,57,3,39,1655906863,"~/.config/kitty/kitty.conf"
+
+# Liste de sauts (le plus récent en premier) :
+-'  11  9  ~/.config/kitty/kitty.conf
+|4,39,11,9,1661269732,"~/.config/kitty/kitty.conf"
+-'  11  9  ~/.config/kitty/kitty.conf
+|4,39,11,9,1661266268,"~/.config/kitty/kitty.conf"
+-'  11  8  ~/.config/kitty/kitty.conf
+|4,39,11,8,1656570467,"~/.config/kitty/kitty.conf"
+-'  3  39  ~/.config/kitty/kitty.conf
+|4,39,3,39,1656570455,"~/.config/kitty/kitty.conf"
+-'  3  39  ~/.config/kitty/kitty.conf
+|4,39,3,39,1656570455,"~/.config/kitty/kitty.conf"
+-'  3  39  ~/.config/kitty/kitty.conf
+|4,39,3,39,1656570455,"~/.config/kitty/kitty.conf"
+-'  3  39  ~/.config/kitty/kitty.conf
+|4,39,3,39,1655906863,"~/.config/kitty/kitty.conf"
+-'  3  39  ~/.config/kitty/kitty.conf
+|4,39,3,39,1655906863,"~/.config/kitty/kitty.conf"
+-'  11  9  ~/.config/kitty/kitty.conf
+|4,39,11,9,1655906800,"~/.config/kitty/kitty.conf"
+-'  11  9  ~/.config/kitty/kitty.conf
+|4,39,11,9,1655906800,"~/.config/kitty/kitty.conf"
+-'  11  9  ~/.config/kitty/kitty.conf
+|4,39,11,9,1655906110,"~/.config/kitty/kitty.conf"
+-'  11  9  ~/.config/kitty/kitty.conf
+|4,39,11,9,1655906110,"~/.config/kitty/kitty.conf"
+-'  11  8  ~/.config/kitty/kitty.conf
+|4,39,11,8,1655904400,"~/.config/kitty/kitty.conf"
+-'  11  8  ~/.config/kitty/kitty.conf
+|4,39,11,8,1655904400,"~/.config/kitty/kitty.conf"
+-'  27  0  ~/.config/kitty/kitty.conf
+|4,39,27,0,1655904389,"~/.config/kitty/kitty.conf"
+-'  27  0  ~/.config/kitty/kitty.conf
+|4,39,27,0,1655904389,"~/.config/kitty/kitty.conf"
+-'  27  0  ~/.config/kitty/kitty.conf
+|4,39,27,0,1655904389,"~/.config/kitty/kitty.conf"
+-'  27  0  ~/.config/kitty/kitty.conf
+|4,39,27,0,1655904389,"~/.config/kitty/kitty.conf"
+-'  27  0  ~/.config/kitty/kitty.conf
+|4,39,27,0,1655904389,"~/.config/kitty/kitty.conf"
+-'  27  0  ~/.config/kitty/kitty.conf
+|4,39,27,0,1655904389,"~/.config/kitty/kitty.conf"
+-'  27  0  ~/.config/kitty/kitty.conf
+|4,39,27,0,1655904389,"~/.config/kitty/kitty.conf"
+-'  27  0  ~/.config/kitty/kitty.conf
+|4,39,27,0,1655904389,"~/.config/kitty/kitty.conf"
+-'  27  0  ~/.config/kitty/kitty.conf
+|4,39,27,0,1655904389,"~/.config/kitty/kitty.conf"
+-'  27  0  ~/.config/kitty/kitty.conf
+|4,39,27,0,1655904385,"~/.config/kitty/kitty.conf"
+-'  27  0  ~/.config/kitty/kitty.conf
+|4,39,27,0,1655904385,"~/.config/kitty/kitty.conf"
+-'  1  0  ~/.config/kitty/kitty.conf
+|4,39,1,0,1655904365,"~/.config/kitty/kitty.conf"
+-'  1  0  ~/.config/kitty/kitty.conf
+|4,39,1,0,1655904365,"~/.config/kitty/kitty.conf"
+-'  1  0  ~/.config/kitty/kitty.conf
+|4,39,1,0,1655904365,"~/.config/kitty/kitty.conf"
+-'  1  0  ~/.config/kitty/kitty.conf
+|4,39,1,0,1655904365,"~/.config/kitty/kitty.conf"
+-'  1  0  ~/.config/kitty/kitty.conf
+|4,39,1,0,1655904365,"~/.config/kitty/kitty.conf"
+-'  1  0  ~/.config/kitty/kitty.conf
+|4,39,1,0,1655904365,"~/.config/kitty/kitty.conf"
+-'  1  0  ~/.config/kitty/kitty.conf
+|4,39,1,0,1655904365,"~/.config/kitty/kitty.conf"
+-'  1  0  ~/.config/kitty/kitty.conf
+|4,39,1,0,1655904365,"~/.config/kitty/kitty.conf"
+-'  1  0  ~/.config/kitty/kitty.conf
+|4,39,1,0,1655904365,"~/.config/kitty/kitty.conf"
+-'  1  0  ~/.config/kitty/kitty.conf
+|4,39,1,0,1655904365,"~/.config/kitty/kitty.conf"
+-'  1  0  ~/.config/kitty/kitty.conf
+|4,39,1,0,1655904365,"~/.config/kitty/kitty.conf"
+
+# Historique des marques dans les fichiers (les plus récentes en premier) :
+
+> ~/.config/kitty/kitty.conf
+	*	1661269729	0
+	"	11	9
+	^	11	10
+	.	11	9
+	+	11	9
+	+	3	40
+	+	11	9

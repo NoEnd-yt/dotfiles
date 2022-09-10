@@ -1,2 +1,2 @@
 # dotfiles
-My dotfiles
+The dotfiles of my laptop.
